@@ -1,34 +1,34 @@
-## Clone Youtube
-Clone da interface do Youtube utilizando ReactJs e MaterialUi! (Criado com a ajuda do [
-Lucas Nhimi](https://www.youtube.com/c/LucasNhimi))
+## Youtube clone
+Youtube interface clone. (Created with the help of [Lucas Nhimi](https://www.youtube.com/c/LucasNhimi))
 
-<br/><br/>
-
-# :eyes: Visualizar projeto
-
-Clique no botão abaixo para ver o deploy do projeto na [Vercel](https://vercel.com)
+# :eyes: View project
+Click on the button below to see the project's deployment on [Vercel](https://vercel.com)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://kaiky-youtube-clone.vercel.app)
 
-<br/>
-
-# :camera: Capturas de Tela
+# :camera: Screenshot
 
 <div>
    <img src="https://i.ibb.co/DgzJwND/Opera-Instant-neo-2021-03-22-152208-localhost.png" width="700px">
 </div>
 
-<br/><br/>
+<br/>
 
-# :construction_worker: Como Rodar?
+# :computer: Technologies
+This project uses these technologies:
+
+* [ReactJS](https://reactjs.org/)
+* [MaterialUI](https://material-ui.com/pt/)
+
+# :construction_worker: How work ?
 ```bash
-# Clone o Repositório:
+# Clone this repository
 $ git clone https://github.com/KaikySantos/youtube-clone.git
-# Entre na pasta criada:
+# Access the project folder
 $ cd youtube-clone
-# Instale as dependências:
+# Install the dependencies
 $ npm install
-# Rode a aplicação:
+# Run the application
 $ npm start
 ```
-Acesse http://localhost:3000/ para ver a aplicação!
+Go to http://localhost:3000/ to see the application!
