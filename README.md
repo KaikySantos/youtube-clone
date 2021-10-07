@@ -32,3 +32,7 @@ $ npm install
 $ npm start
 ```
 Go to http://localhost:3000/ to see the application!
+
+<hr/>
+
+<p align="center">Made with 💙 by Kaiky Santos</p>
